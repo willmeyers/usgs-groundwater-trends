@@ -12,4 +12,4 @@ Each line represents a USGS groundwater site. In summary:
 
 ## Methodology
 
-Trends were calculated using [Mann Kendall]() and (Theil-Sen regressions). Data was sourced from USGS.
+Trends were calculated using [Mann Kendall](https://wikitia.com/wiki/Mann-Kendall_trend_test) and [Theil-Sen regressions](https://en.wikipedia.org/wiki/Theil–Sen_estimator). Data was sourced from USGS.
